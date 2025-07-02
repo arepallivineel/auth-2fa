@@ -24,6 +24,11 @@ This is a robust full-stack authentication system built with **Node.js**, **Mong
 | Frontend     | React (optional if used)  |
 | Tools        | dotenv, nodemon, etc.     |
 
----
 
-## 📂 Folder Structure
+## 📂 Architecture Diagram 
+---<img width="1148" alt="Screenshot 2025-07-02 at 5 51 31 PM" src="https://github.com/user-attachments/assets/9076fd9e-fe8a-48c0-b663-fa666b93ab7a" />
+
+
+
+
+
